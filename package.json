@@ -1,0 +1,23 @@
+{
+  "name": "http-logger",
+  "description": "Middleware for HTTP request/response logging for Express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "types": "./d.ts/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "logger",
+    "http",
+    "express"
+  ],
+  "author": "KunalKukreja",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.17"
+  }
+}
